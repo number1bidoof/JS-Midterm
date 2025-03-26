@@ -28,7 +28,3 @@ document.body.appendChild(newh1)
 newh1.innerHTML = favIceCreamFlav
 newh1.style.backgroundColor = "PaleGreen"
 document.body.style.backgroundColor = "SkyBlue"
-// Snippet 5
-var newImg = document.createElement('img');
-newImg.src = "https://th-thumbnailer.cdn-si-edu.com/ii_ZQzqzZgBKT6z9DVNhfPhZe5g=/fit-in/1600x0/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/95/55958815-3a8a-4032-ac7a-ff8c8ec8898a/gettyimages-1067956982.jpg"
-document.body.appendChild(newImg)
